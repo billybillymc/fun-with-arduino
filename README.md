@@ -1,7 +1,6 @@
 # Arduino Breadboard · Project 01 Sketches
 
-Six self-contained sketches for the **pot + SG90 servo + capacitor** breadboard
-you already have. No additional hardware required for any of them.
+Six self-contained sketches for the **pot + SG90 servo + capacitor** breadboard setup.
 
 To use: in Arduino IDE, `File → Open` the `.ino` file you want, click Upload.
 
